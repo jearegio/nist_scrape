@@ -1,2 +1,3 @@
 /.venv
 /nist_files
+.DS_Store
